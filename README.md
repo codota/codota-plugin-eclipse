@@ -1,5 +1,5 @@
 # Codota plugin for Eclipse (Free)
-### AI Code compleions for Java on Eclipse platforms
+### AI Code completions for Java on Eclipse platforms
 
 Install the codota [plugin for Eclipse](https://www.codota.com/get) to get advanced Java code completions
 
